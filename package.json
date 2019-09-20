@@ -39,7 +39,6 @@
     "karma-safari-launcher": "^0.1.1"
   },
   "scripts": {
-    "postinstall": "node_modules/.bin/bower install",
     "test": "node_modules/.bin/grunt test"
   }
 }
